@@ -204,3 +204,4 @@ def do_line_demo(surface, counter):
                 
         
 run_demos(400, 300, 60)
+pygame.quit()
